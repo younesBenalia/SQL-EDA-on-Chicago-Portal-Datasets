@@ -1,4 +1,4 @@
-# SQL-EDA-on-Chicago-s-Portal-Datasets
+# SQL EDA on Chicago's Portal Datasets
 
 ## Understand the datasets
 
